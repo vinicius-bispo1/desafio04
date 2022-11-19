@@ -24,7 +24,7 @@ body {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
-    
+    font-size: 20px;
     color: white;
     width: 1100px;
     height: 0vh;
@@ -41,7 +41,7 @@ body {
     display: flex;
     width: 1400px;
     justify-content: space-evenly;
-    
+    font-size: 20px;
     color: white;
   }
   .SEC1 {
@@ -54,7 +54,6 @@ body {
 
  .cursor {
     display: flex;
-    
     width: 19vw;
     height: 10vh;
     justify-content: center ;
@@ -64,10 +63,9 @@ body {
     
     width: 25px;
     height: 25px;
-    
     position: relative;
-    top: 9px;
-    right: -85px;
+    top: 13px;
+    right: -83px;
 
     
 
